@@ -18,3 +18,6 @@ Every cell interacts with its eight neighbours, which are the cells that are hor
     Any live cell with more than three live neighbours dies, as if by overpopulation.
     Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 ```
+
+# Start here in the [Jupyter notebook](Mosher_GameOfLife_demo.ipynb):
+[Mosher_GameOfLife_demo.ipynb](Mosher_GameOfLife_demo.ipynb)
